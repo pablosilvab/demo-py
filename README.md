@@ -1,8 +1,8 @@
-# Demo Pyhton 2020-01
+# Demo Pyhton 2020-01 🚀
 
-Este proyecto es una demo de Pyhton + Docker
+Este proyecto es una demo de Pyhton + Docker 
 
-### Ejecutar proyecto de forma local
+### Ejecutar proyecto de forma local 🔧
 
 1. Clonar proyecto en directorio.
 
@@ -10,7 +10,7 @@ Este proyecto es una demo de Pyhton + Docker
 git clone git@github.com:pablosilvab/demo-py.git
 ```
 
-### Ejecutar mediante contenedor local 
+### Ejecutar mediante contenedor local 🐋
 
 Entrar el directorio del proyecto y seguir los siguientes pasos
 
@@ -26,4 +26,4 @@ make docker-build
 make docker-run
 ```
 
-Felicidades ya eres un experto en Python.
+Felicidades, ya eres un experto en Python. 🎉
